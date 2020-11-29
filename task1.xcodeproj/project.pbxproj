@@ -15,6 +15,7 @@
 		77FDA97925715BC800EF57B3 /* task1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 77FDA97725715BC800EF57B3 /* task1.xcdatamodeld */; };
 		77FDA97B25715BCA00EF57B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77FDA97A25715BCA00EF57B3 /* Assets.xcassets */; };
 		77FDA97E25715BCA00EF57B3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77FDA97C25715BCA00EF57B3 /* LaunchScreen.storyboard */; };
+		77FDA98625715D7C00EF57B3 /* CircleProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77FDA98525715D7C00EF57B3 /* CircleProgressBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		77FDA97A25715BCA00EF57B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		77FDA97D25715BCA00EF57B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		77FDA97F25715BCA00EF57B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		77FDA98525715D7C00EF57B3 /* CircleProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleProgressBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				77FDA97C25715BCA00EF57B3 /* LaunchScreen.storyboard */,
 				77FDA97F25715BCA00EF57B3 /* Info.plist */,
 				77FDA97725715BC800EF57B3 /* task1.xcdatamodeld */,
+				77FDA98525715D7C00EF57B3 /* CircleProgressBar.swift */,
 			);
 			path = task1;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				77FDA98625715D7C00EF57B3 /* CircleProgressBar.swift in Sources */,
 				77FDA97325715BC800EF57B3 /* SecondViewController.swift in Sources */,
 				77FDA97125715BC800EF57B3 /* FirstViewController.swift in Sources */,
 				77FDA97925715BC800EF57B3 /* task1.xcdatamodeld in Sources */,
